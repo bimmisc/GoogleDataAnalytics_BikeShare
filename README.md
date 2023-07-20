@@ -29,13 +29,13 @@
 <p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work.
 <p align="center">2) Casual riders had lower ride numbers but for longer durations in comparison to Member riders, especially on weekends, and they mostly used classic bikes than electric bikes.
 <p align="center">3) Casual riders mostly used classic bikes than electric bikes compared to Member riders.</p></b>
-(The Top 3 Recommendations are listed at the end)
+(The Top 3 Recommendations are listed at the bottom of the page)
 
 
 <h2>Findings</h2>
 
 
-<b> 1) First analysis of the data: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below. The figure (1) shows Members generated a higher number of rides than Casuals, especially on weekdays. And Members had higher usage on weekdays, which may be used for daily commutes to and from work.
+<b> 1) The first step in the analysis step was to find out the number of rides taken by Casual riders and Members. Figure 1 shows Members generated a higher number of rides than Casuals, especially on weekdays. And Members had higher usage on weekdays, which may be used for daily commutes to and from work.
 However, on weekends, more rides were logged by Casual riders compared to members. This could be because of more visitors visiting the city on weekends. <b> <br/>
 <p align="center">
 <img src="Number of Rides.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
@@ -48,9 +48,9 @@ However, on weekends, more rides were logged by Casual riders compared to member
 <p/><br />
 
 <br />
-Enter the number of passes: <br/>
+3) I also looked at the number of rides by month taken by Casual and Member riders. The overall trend shows that more rides were made in the Summer months, May to October, by both Casual and Member riders.<br/>
 <p align="center">
-<img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
 <br />
