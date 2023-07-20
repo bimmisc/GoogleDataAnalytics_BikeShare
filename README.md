@@ -33,14 +33,17 @@
 
 <h2>Findings</h2>
 
+
+<b> 1) First analysis of the data: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below. The figure (1) shows Members generated a higher number of rides than Casuals, especially on weekdays. And Members had higher usage on weekdays, which may be used for daily commutes to and from work.
+However, on weekends, more rides were logged by Casual riders compared to members. This could be because of more visitors visiting the city on weekends. <b> <br/>
 <p align="center">
-<b> 1) First data analysis: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below<b> <br/>
-<img src="Number of Rides.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<img src="Number of Rides.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/><br />
 <br />
 2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
-<img src="Average Ride Duration.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<p align="center">
+<img src="Average Ride Duration.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<p/><br />
 <br />
 Enter the number of passes: <br/>
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
