@@ -35,11 +35,11 @@
 
 <p align="center">
 <b> 1) First data analysis: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below<b> <br/>
-<img src="Number of Rides.png"/>
+<img src="Number of Rides.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
-<img src="Average Ride Duration.png"/>
+<img src="Average Ride Duration.png"height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
 Enter the number of passes: <br/>
