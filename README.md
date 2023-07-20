@@ -65,7 +65,7 @@ Lastly, I analyzed the data according to the type of bike used: how often and fo
 <p/><br />
 
 <p align="center">
-4b)  <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4b)  <img src="Duration of Ride by Bike Type.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
 <br />
