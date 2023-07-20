@@ -34,7 +34,7 @@
 <h2>Findings</h2>
 
 <p align="center">
-<b>Launch the utility<b> <br/>
+<b>Figure below shows the number of rides recorded according to Bike Type<b> <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
