@@ -8,23 +8,28 @@
 - There were three questions that guide the future marketing program, and I was assigned the first question to answer:<br />
 <b><p align="center">"How do annual members and riders use Cyclistic bikes differently?"</p></b>
 
-- I collected (downloaded) 15 consecutive months of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing (cleaning) steps.</b>
+- I collected (downloaded) <b>15 consecutive months</b> of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing (cleaning) steps.</b>
 
-- After preparing, cleaning, and processing, I used <b>R programming</b> to analyze the cleaned data. </b>
-- And below is the Share step, where I am sharing my findings. </b>
+- After the "prepare" and "process" steps, I used <b>R programming (RStudio)</b> to analyze the cleaned data. </b>
+- And below is the "Share" step, where I am sharing my findings represented in simple graphs and tables generated using RStudio. </b>
 </b>
+
+<h2>Data Analysis Programs Used </h2>
+
+- <b>Microsoft Excel</b>
+- <b>RStudio</b>
 
 
 <h2>Executive Summary</h2>
 
-- <b>PowerShell</b> 
-- <b>Diskpart</b>
+- <b>In this case study, I used 15 consecutive months of Cyclistic bike-share program data to evaluate: its bike rental performance, determine the trends of bike rentals by casual rides and members, and theorize what caused the differences in rental between the two categories of riders. I then developed an action plan based on those findings by suggesting 3 top recommendations</b>
 
-<h2>Environments Used </h2>
+- <b> Answers to the Question I was tasked with:
+<p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders, but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work
+<p align="center">2) Casual riders had lower ride numbers but for longer durations in comparison to Member riders, especially on weekends, and they mostly used classic bikes than electric bikes.</p></b>
 
-- <b>Windows 10</b> (21H2)
 
-<h2>Program walk-through:</h2>
+<h2>Findings</h2>
 
 <p align="center">
 Launch the utility: <br/>
