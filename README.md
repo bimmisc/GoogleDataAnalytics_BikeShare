@@ -35,7 +35,7 @@
 
 <p align="center">
 <b> 1) First data analysis: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below<b> <br/>
-<img src="image.png"/>
+<img src="Number of Rides.png"/>
 <br />
 <br />
 2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
