@@ -28,6 +28,7 @@
 - <b> Answers to the Question I was tasked with:
 <p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders, but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work.
 <p align="center">2) Casual riders had lower ride numbers but for longer durations in comparison to Member riders, especially on weekends, and they mostly used classic bikes than electric bikes.</p></b>
+(The Top 3 Recommendations are listed at the end)
 
 
 <h2>Findings</h2>
