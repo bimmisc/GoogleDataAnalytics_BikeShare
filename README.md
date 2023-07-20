@@ -40,7 +40,8 @@ However, on weekends, more rides were logged by Casual riders compared to member
 <img src="Number of Rides.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 <br />
-2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
+
+2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2 shows Members had lower average ride durations Casual riders, but more often. The figure also shows Casual riders had longer ride durations on weekends than on weekdays, and this could be because they were visiting the city and used the bike for sightseeing. <br/>
 <p align="center">
 <img src="Average Ride Duration.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
