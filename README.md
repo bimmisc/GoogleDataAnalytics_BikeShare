@@ -26,7 +26,7 @@
 - <b>In this case study, I used 15 consecutive months of Cyclistic bike-share program data to evaluate: its bike rental performance, determine the trends of bike rentals by casual rides and members, and theorize what caused the differences in rental between the two categories of riders. I then developed an action plan based on those findings by suggesting 3 top recommendations</b>
 
 - <b> Answers to the Question I was tasked with:
-<p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders, but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work.
+<p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work.
 <p align="center">2) Casual riders had lower ride numbers but for longer durations in comparison to Member riders, especially on weekends, and they mostly used classic bikes than electric bikes.</p></b>
 (The Top 3 Recommendations are listed at the end)
 
@@ -34,8 +34,8 @@
 <h2>Findings</h2>
 
 <p align="center">
-<b>Figure below shows the number of rides recorded according to Bike Type<b> <br/>
-<img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<b> First data analysis: Find out the number of rides taken by Casual riders and Member riders. Data is shown in Figure 1 below<b> <br/>
+<img src="image.png"/>
 <br />
 <br />
 Select the disk:  <br/>
