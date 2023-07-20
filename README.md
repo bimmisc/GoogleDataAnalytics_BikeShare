@@ -45,24 +45,34 @@ However, on weekends, more rides were logged by Casual riders compared to member
 <p align="center">
 <img src="Average Ride Duration.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
+
 <br />
 Enter the number of passes: <br/>
+<p align="center">
 <img src="https://i.imgur.com/nCIbXbg.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<p/><br />
+
 <br />
 Confirm your selection:  <br/>
+<p align="center">
 <img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<p/><br />
+
 <br />
 Wait for process to complete (may take some time):  <br/>
+<p align="center">
 <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<p/><br />
+
 <br />
 Sanitization complete:  <br/>
+<p align="center">
 <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-<br />
+<p/><br />
+
 <br />
 Observe the wiped disk:  <br/>
+<p align="center">
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
