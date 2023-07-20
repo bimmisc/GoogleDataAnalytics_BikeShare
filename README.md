@@ -69,7 +69,7 @@ Lastly, I analyzed the data according to the type of bike used: how often and fo
 <p/><br />
 
 <br />
-Observe the wiped disk:  <br/>
+I also analyzed the data to obtain the descriptive analysis for ride length, shown in the table below. The average and median ride lengths were longer for Casual riders <br/>
 <p align="center">
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
