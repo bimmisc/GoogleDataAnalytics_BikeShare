@@ -59,15 +59,13 @@ However, on weekends, more rides were logged by Casual riders compared to member
 <p/><br />
 
 <br />
-Wait for process to complete (may take some time):  <br/>
+Lastly, I analyzed the data according to the type of bike used: how often and for how long. Figure  4a) show more Casual riders rented more electric bikes than casual bikes, while Member rides used both types of bikes relatively equally. Despite the higher usage of electric bikes, they were used for shorter durations than classic bikes. One of the reasons for this could be because of the higher price of renting electric bikes. <br/>
 <p align="center">
-<img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4a)  <img src="https://i.imgur.com/JL945Ga.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
-<br />
-Sanitization complete:  <br/>
 <p align="center">
-<img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+4b)  <img src="https://i.imgur.com/K71yaM2.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
 <br />
