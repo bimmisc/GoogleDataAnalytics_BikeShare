@@ -8,10 +8,12 @@
 - There were three questions that guide the future marketing program, and I was assigned the first question to answer:<br />
 <b><p align="center">"How do annual members and riders use Cyclistic bikes differently?"</p></b>
 
-- I collected (downloaded) 15 consecutive months of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing steps.</b>
+- I collected (downloaded) 15 consecutive months of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing (cleaning) steps.</b>
 
 - After preparing, cleaning, and processing, I used <b>R programming</b> to analyze the cleaned data. </b>
+- And below is the Share step, where I am sharing my findings. </b>
 </b>
+
 
 <h2>Executive Summary</h2>
 
