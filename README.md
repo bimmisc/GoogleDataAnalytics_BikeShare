@@ -2,13 +2,14 @@
 
 <h2>Description</h2>
 
-- For the Google Data Analytics Certificate, I chose Case Study 1 as my Capstone Project. <br />
-- In brief, in this project, I was tasked as a "junior data analyst working in the marketing analyst team at Cyclistic, a bike-share company in Chicago. And my team wanted to understand "how casual riders and annual members use Cyclistic bikes differently." From the insights gained from data analysis (including the asking, preparing, collecting, cleaning, processing, analysis, and sharing steps), my team will design a new marketing strategy to convert casual riders into annual members. <br />
+- For the Google Data Analytics Certificate, I chose Case Study 1 for my Capstone Project. <br />
+- In brief, the scenario of this project was that the director of marketing believes the company's future success depends on maximizing the number of annual memberships.
+- My team, the Marketing Analyst team at Cyclistic, a bike-share company in Chicago, was tasked to understand "how casual riders and annual members use Cyclistic bikes differently." and design a new marketing strategy to convert casual riders into annual members.<br />
 
-- There were three questions that guide the future marketing program, and I was assigned the first question to answer:<br />
+- There were three questions that guide the future marketing program, and I, as a junior data analyst, was assigned the first question to answer:<br />
 <b><p align="center">"How do annual members and riders use Cyclistic bikes differently?"</p></b>
 
-- I collected (downloaded) <b>15 consecutive months</b> of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing (cleaning) steps.</b>
+- For my assignment, I collected (downloaded) <b>15 consecutive months</b> of data from a provided database. I used <b>Microsoft Excel</b> for the data preparation and processing (cleaning) steps.</b>
 
 - After the "prepare" and "process" steps, I used <b>R programming (RStudio)</b> to analyze the cleaned data. </b>
 - And below is the "Share" step, where I am sharing my findings represented in simple graphs and tables generated using RStudio. </b>
@@ -69,14 +70,14 @@ Lastly, I analyzed the data according to the type of bike used: how often and fo
 <p/><br />
 
 <br />
-I also analyzed the data to obtain the descriptive analysis for ride length, shown in the table below. The average and median ride lengths were longer for Casual riders <br/>
+The descriptive analysis for ride length was also calculated, as shown in the table below. Casual riders had longer average ride length than Member riders. Casual riders <br/>
 <p align="center">
-<img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Descriptive Analysis.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<h2>Top 3 Recommendations</h2>
-
-- <b><p align="center">1) Promote and advertise to Casual Riders that the annual membership provides cheaper rates with longer ride durations for renting electric bikes, especially on the weekends.
-<p align="center">2) Promote about the benefits that come with the annual membership, including in-app recommendations for local attractions, discounted prices for entrance fees, at local retailers (cafes, restaurants), and other partnership discount.
-<p align="center">2) Promote that the membership can be used in other cities's bike rental program.</p></b>
+<h2>My Top 3 Recommendations</h2>
+<b><p align="center"> My top 3 recommendations to convert casual riders to annual members are:
+<b><p align="center"> 1) Promote and advertise to Casual Riders that the annual membership provides cheaper rates with longer ride durations for renting electric bikes, especially on the weekends.
+<p align="center"> 2) Promote about the benefits that come with the annual membership, including in-app recommendations for local attractions, discounted prices for entrance fees, at local retailers (cafes, restaurants), and other partnership discount.
+<p align="center"> 3) Promote that the membership can be used in other cities's bike rental program.</p></b>
 
