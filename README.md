@@ -26,14 +26,14 @@
 - <b>In this case study, I used 15 consecutive months of Cyclistic bike-share program data to evaluate: its bike rental performance, determine the trends of bike rentals by casual rides and members, and theorize what caused the differences in rental between the two categories of riders. I then developed an action plan based on those findings by suggesting 3 top recommendations</b>
 
 - <b> Answers to the Question I was tasked with:
-<p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders, but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work
+<p align="center">1) Member riders use Cyclistic bikes more frequently than Casual riders, but for shorter durations on weekdays. The shorter rides by Member riders could be for daily commutes to and from work.
 <p align="center">2) Casual riders had lower ride numbers but for longer durations in comparison to Member riders, especially on weekends, and they mostly used classic bikes than electric bikes.</p></b>
 
 
 <h2>Findings</h2>
 
 <p align="center">
-Launch the utility: <br/>
+<b>Launch the utility<b> <br/>
 <img src="https://i.imgur.com/62TgaWL.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
@@ -61,12 +61,9 @@ Observe the wiped disk:  <br/>
 <img src="https://i.imgur.com/AeZkvFQ.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
-<!--
- ```diff
-- text in red
-+ text in green
-! text in orange
-# text in gray
-@@ text in purple (and bold)@@
-```
---!>
+<h2>Top 3 Recommendations</h2>
+
+- <b><p align="center">1) Promote and advertise to Casual Riders that the annual membership provides cheaper rates with longer ride durations for renting electric bikes, especially on the weekends.
+<p align="center">2) Promote about the benefits that come with the annual membership, including in-app recommendations for local attractions, discounted prices for entrance fees, at local retailers (cafes, restaurants), and other partnership discount.
+<p align="center">2) Promote that the membership can be used in other cities's bike rental program.</p></b>
+
