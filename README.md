@@ -39,7 +39,7 @@
 <br />
 <br />
 2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
-<img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="Average Ride Duration.png"/>
 <br />
 <br />
 Enter the number of passes: <br/>
