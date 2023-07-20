@@ -34,11 +34,11 @@
 <h2>Findings</h2>
 
 <p align="center">
-<b> 1) First data analysis: Find out the number of rides taken by Casual riders and Member riders. Data is shown in Figure 1 below<b> <br/>
+<b> 1) First data analysis: Find out the number of rides taken by Casual riders and Members. Data is shown in Figure 1 below<b> <br/>
 <img src="image.png"/>
 <br />
 <br />
-2) Select the disk:  <br/>
+2) The data was then analyzed for average ride durations logged by Casual riders and Members. Figure 2.  <br/>
 <img src="https://i.imgur.com/tcTyMUE.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <br />
 <br />
