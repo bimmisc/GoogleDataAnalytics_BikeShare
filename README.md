@@ -48,15 +48,14 @@ However, on weekends, more rides were logged by Casual riders compared to member
 <p/><br />
 
 <br />
-3) I also looked at the number of rides by month taken by Casual and Member riders. The overall trend shows that more rides were made in the Summer months, May to October, by both Casual and Member riders.<br/>
+3) I also looked at the number of rides (3a) and average ride duration (3b) by month taken by Casual and Member riders. The overall trend shows that more rides were made in the Summer months, May to October, by both Casual and Member riders. Furthermore, higher average durations were logged from April to July. However, this trend did not coincide with the trend for the number of rides. <br/>
 <p align="center">
-<img src="Number of Rides By Month Dec to April.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3a)  <img src="Number of Rides By Month Dec to April.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
-<br />
-Confirm your selection:  <br/>
+<br /> <br/>
 <p align="center">
-<img src="https://i.imgur.com/cdFHBiU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+3b)  <img src="Avg Ride Duration by Month Dec to April.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 <p/><br />
 
 <br />
