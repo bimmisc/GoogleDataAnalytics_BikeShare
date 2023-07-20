@@ -14,7 +14,7 @@
 - And below is the "Share" step, where I am sharing my findings represented in simple graphs and tables generated using RStudio. </b>
 </b>
 
-<h2>Data Analysis Programs Used </h2>
+<h3>Data Analysis Program Used </h3>
 
 - <b>Microsoft Excel</b>
 - <b>RStudio</b>
